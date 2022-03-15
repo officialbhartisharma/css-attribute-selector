@@ -1,2 +1,2 @@
 # css-attribute-selector
-How to select attribute of any HTML element and style according to attribute and it's value in CSS.
+How to select any HTML element using attribute and style according to attribute and it's value using CSS.
